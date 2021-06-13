@@ -8,5 +8,4 @@ while (True) :
     if z[0] != "!kick" :
         b = "!kick " + a
         pc.copy(b)
-
-
+        print("Copied %s" % b)
