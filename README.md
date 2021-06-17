@@ -1,7 +1,5 @@
 # 9arm
 
-Auto add "!kick " in front of text that copied on clipboard
+Auto add "!kick " in front of text that copied on clipboard via clipboardy-nodeJS
 
-need pyperclip module to run
-
-pip install pyperclip
+run "npm install"
